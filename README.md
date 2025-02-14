@@ -11,17 +11,6 @@
 Hi, I'm Hannen nice to meet you!
 
 
-<details>
-<summary>My top THINGS-TO-RANK</summary>
-
-| Rank | Favourite food |
-|-----:|----------------|
-|     1| Nasi Lemak     |
-|     2| Chap Fan       |
-|     3| Kueh Tiaw      |
-
-</details>
-
 ---
 > Insert quote - Test
 
